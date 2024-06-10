@@ -13,3 +13,5 @@ management today is the most important function in a commercial and business
 enterprise.
 # Dataset:
   [Download Data](https://github.com/Mili-byte926/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20data.csv)
+# Tools Use:
+  Python,Power BI,Jupyter nootbook,Excel,Power Point
