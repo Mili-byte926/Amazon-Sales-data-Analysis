@@ -15,3 +15,4 @@ enterprise.
   [Download Data](https://github.com/Mili-byte926/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20data.csv)
 # Tools Use:
   Python,Power BI,Jupyter nootbook,Excel,Power Point
+![image](https://github.com/Mili-byte926/Amazon-Sales-data-Analysis/assets/118957525/f9dfbc98-222a-4a58-aae1-6652fc57a1fd)
