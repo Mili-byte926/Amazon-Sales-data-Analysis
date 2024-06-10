@@ -13,4 +13,4 @@ management today is the most important function in a commercial and business
 enterprise.
 # Dataset:
   You can find the dataset on the given link
-  [Download Data](Amazon Sales data.csv)
+  [Download Data](Amazon%20Sales%20data.csv)
